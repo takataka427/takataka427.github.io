@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    font-size: 5vh;
+}
+div.exp{
+    padding: 1%;
+    background-color: #8ce28c;
+}
+h2.exp{
+    margin: 0;
+    padding: 1%;
+    height: 3vh;
+    font-size: 4vh; 
+}
+
+h3{
+    color: blue;
+}
+h3.dangerous{
+    color: red;
+}
+p.name{
+    text-align: right;
+}
+
+footer{
+    padding: 4%;
+    height: 5vh;
+    max-height: 100%;
+    background-color: rgb(238, 197, 168);
+    text-align: center;
+}
